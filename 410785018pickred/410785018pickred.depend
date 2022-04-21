@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1592467347 source:c:\users\user\desktop\410785018pickred\main.cpp
+	"Card.h"
+
+1593031813 c:\users\user\desktop\410785018pickred\card.h
+	<iostream>
+	<iomanip>
+	<string>
+	<string.h>
+	<ctime>
+	<cmath>
+	<cstring>
+	<windows.h>
+	<algorithm>
+	<vector>
+	<map>
+	<fstream>
+	<sstream>
+	<utility>
+
+1593033561 source:c:\users\user\desktop\410785018pickred\card.cpp
+	"Card.h"
+
+1593076416 source:c:\users\foo\desktop\410785018pickred\card.cpp
+	"Card.h"
+
+1593075369 c:\users\foo\desktop\410785018pickred\card.h
+	<iostream>
+	<iomanip>
+	<string>
+	<string.h>
+	<ctime>
+	<cmath>
+	<cstring>
+	<windows.h>
+	<algorithm>
+	<vector>
+	<map>
+	<fstream>
+	<sstream>
+	<utility>
+
+1593075945 source:c:\users\foo\desktop\410785018pickred\main.cpp
+	"Card.h"
+
